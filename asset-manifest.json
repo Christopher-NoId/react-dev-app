@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Christopher-NoId.github.io/react-dev-app/static/css/main.8360a430.chunk.css",
+    "main.js": "/Christopher-NoId.github.io/react-dev-app/static/js/main.9c40abeb.chunk.js",
+    "main.js.map": "/Christopher-NoId.github.io/react-dev-app/static/js/main.9c40abeb.chunk.js.map",
+    "runtime-main.js": "/Christopher-NoId.github.io/react-dev-app/static/js/runtime-main.dcd59d36.js",
+    "runtime-main.js.map": "/Christopher-NoId.github.io/react-dev-app/static/js/runtime-main.dcd59d36.js.map",
+    "static/js/2.6fc0babb.chunk.js": "/Christopher-NoId.github.io/react-dev-app/static/js/2.6fc0babb.chunk.js",
+    "static/js/2.6fc0babb.chunk.js.map": "/Christopher-NoId.github.io/react-dev-app/static/js/2.6fc0babb.chunk.js.map",
+    "index.html": "/Christopher-NoId.github.io/react-dev-app/index.html",
+    "precache-manifest.ecd1d1726d5a24141132fc67d32aff20.js": "/Christopher-NoId.github.io/react-dev-app/precache-manifest.ecd1d1726d5a24141132fc67d32aff20.js",
+    "service-worker.js": "/Christopher-NoId.github.io/react-dev-app/service-worker.js",
+    "static/css/main.8360a430.chunk.css.map": "/Christopher-NoId.github.io/react-dev-app/static/css/main.8360a430.chunk.css.map",
+    "static/js/2.6fc0babb.chunk.js.LICENSE.txt": "/Christopher-NoId.github.io/react-dev-app/static/js/2.6fc0babb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcd59d36.js",
+    "static/js/2.6fc0babb.chunk.js",
+    "static/css/main.8360a430.chunk.css",
+    "static/js/main.9c40abeb.chunk.js"
+  ]
+}
